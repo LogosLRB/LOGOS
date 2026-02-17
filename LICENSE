@@ -1,0 +1,32 @@
+LOGOS Public Documentation License
+1. Scope
+This repository contains documentation and publicly available interface specifications only.
+Proprietary implementation components of LOGOS are not included in this repository and are not licensed under this document.
+This license applies exclusively to documentation materials made publicly available within this repository.
+2. Permitted Use
+Permission is granted to access, view, and reference the documentation contained in this repository solely for:
+Evaluation purposes
+Integration planning
+Internal technical review
+No rights are granted beyond access to and reference of the documentation itself.
+3. Restrictions
+This license does not grant any rights to:
+Access proprietary implementation components
+Use proprietary implementation components
+Reproduce proprietary implementation components
+Distribute proprietary implementation components
+Sublicense proprietary implementation components
+Modify proprietary implementation components
+Reverse engineer, reconstruct, or otherwise attempt to obtain proprietary implementation components
+No license is granted to any software, binaries, internal mechanisms, operational systems, or proprietary materials of LOGOS unless expressly provided under a separate written agreement.
+4. Intellectual Property
+All proprietary components of LOGOS remain the exclusive intellectual property of LOGOS.
+Nothing in this repository shall be interpreted as granting:
+Ownership rights
+License rights beyond those expressly stated herein
+Rights of use to proprietary components
+Any implied rights under patent, copyright, trade secret, or other intellectual property law
+5. Reservation of Rights
+All rights not expressly granted in this license are reserved.
+6. Governing Law
+This license shall be governed by applicable law, without prejudice to proprietary rights and intellectual property protections.
