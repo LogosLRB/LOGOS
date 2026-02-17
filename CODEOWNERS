@@ -1,0 +1,12 @@
+# Global ownership
+* @LogosLRB
+
+# Governance documents
+README.md @LogosLRB
+SECURITY.md @LogosLRB
+docs/* @LogosLRB
+spec/* @LogosLRB
+LICENSE @LogosLRB
+
+# Workflow / automation
+.github/* @LogosLRB
